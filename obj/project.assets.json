@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Сергей\\Documents\\Учеба\\ИрГУПС\\Курганская\\Конструирование ПО\\laba1_4\\laba1_4.csproj",
+      "projectUniqueName": "C:\\laba1_4\\laba1_4.csproj",
       "projectName": "laba1_4",
-      "projectPath": "C:\\Users\\Сергей\\Documents\\Учеба\\ИрГУПС\\Курганская\\Конструирование ПО\\laba1_4\\laba1_4.csproj",
+      "projectPath": "C:\\laba1_4\\laba1_4.csproj",
       "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Сергей\\Documents\\Учеба\\ИрГУПС\\Курганская\\Конструирование ПО\\laba1_4\\obj\\",
+      "outputPath": "C:\\laba1_4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

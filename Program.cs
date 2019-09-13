@@ -16,4 +16,28 @@ namespace laba1_4
             Console.WriteLine("Произведение введенных чисел: " + sum_and_mult.Mult_Num());
         }
     }
+
+    public class Summator {
+        public List<int> Num = new List<int>();
+        public Summator(List<int> numb) {
+            Num = numb;
+        }
+
+        public int Sum_Num(){
+            int Sum=0;
+            foreach(var numb in Num) {
+                Sum += numb;
+            }
+            return Sum;
+        }
+
+        public int Mult_Num(){
+            int Mult=1;
+            foreach(var numb in Num) {
+                Mult *= numb;
+            }
+            return Mult;
+        }
+
+    }
 }

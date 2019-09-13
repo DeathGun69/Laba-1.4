@@ -9,3 +9,14 @@ C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\К�
 C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\laba1_4\bin\Debug\netcoreapp2.2\laba1_4.pdb
 C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\laba1_4\obj\Debug\netcoreapp2.2\laba1_4.dll
 C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\laba1_4\obj\Debug\netcoreapp2.2\laba1_4.pdb
+C:\laba1_4\bin\Debug\netcoreapp2.2\laba1_4.deps.json
+C:\laba1_4\bin\Debug\netcoreapp2.2\laba1_4.runtimeconfig.json
+C:\laba1_4\bin\Debug\netcoreapp2.2\laba1_4.runtimeconfig.dev.json
+C:\laba1_4\bin\Debug\netcoreapp2.2\laba1_4.dll
+C:\laba1_4\bin\Debug\netcoreapp2.2\laba1_4.pdb
+C:\laba1_4\obj\Debug\netcoreapp2.2\laba1_4.csprojAssemblyReference.cache
+C:\laba1_4\obj\Debug\netcoreapp2.2\laba1_4.csproj.CoreCompileInputs.cache
+C:\laba1_4\obj\Debug\netcoreapp2.2\laba1_4.AssemblyInfoInputs.cache
+C:\laba1_4\obj\Debug\netcoreapp2.2\laba1_4.AssemblyInfo.cs
+C:\laba1_4\obj\Debug\netcoreapp2.2\laba1_4.dll
+C:\laba1_4\obj\Debug\netcoreapp2.2\laba1_4.pdb
